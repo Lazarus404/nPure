@@ -393,10 +393,10 @@ EndProcedure
 ProcedureCDLL.l initialize__3()
     ProcedureReturn @initialize()
 EndProcedure
-; IDE Options = PureBasic 4.20 (Windows - x86)
-; ExecutableFormat = Shared Dll
-; CursorPosition = 327
-; FirstLine = 276
+; IDE Options = PureBasic 5.71 LTS (Linux - x64)
+; ExecutableFormat = Shared .so
+; CursorPosition = 48
+; FirstLine = 48
 ; Folding = ------
 ; UseMainFile = nPure.pb
 ; Executable = nPure.ndll.dll
