@@ -1,0 +1,5 @@
+version 0.1.0
+	No changes as of yet... It's a first release, dagnabbit!
+
+version 0.2.0
+	Updated to work with Haxe 3.4

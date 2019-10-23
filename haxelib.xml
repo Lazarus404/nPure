@@ -1,0 +1,5 @@
+<project name="npure" url="https://github.com/Lazarus404/npure" license="LGPL">
+    <user name="jahredlove"/>
+    <description>nPure provides an interface script which more or less duplicates the Neko CFFI in PureBasic, so that developers can create cross platform ndll libraries using the PureBasic language</description>
+    <version name="0.2.0">See changes.txt</version>
+</project>
